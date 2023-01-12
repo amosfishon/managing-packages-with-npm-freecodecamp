@@ -3,12 +3,10 @@
 	"description": "A project that does something awesome",
 	"keywords": [ "npm", "node", "freecodecamp" ],
 	"license": "MIT",
-	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
-		"dependencies": {
-	  "@freecodecamp/example": "version",
-	  "express": "4.14.0"
-	}
+	"dependencies": {
+		"package-name": "@freecodecamp/example",
+		"express": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
